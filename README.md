@@ -3,7 +3,7 @@
 
 <img src="./img/IMG_9081.PNG" alt="interfaceProject" width="450px">
 
-> Projeto pessoal desenvolvido com o objetivo de desenvolver e aprimorar habilidades com HTML, CSS, JS e responsividade da interface.
+> Projeto pessoal desenvolvido com o objetivo de aprimorar habilidades com HTML, CSS, JS e responsividade da interface.
 
 ### Interface Responsiva
 <img src="./img/Design sem nome (2).png" alt="interfaceMobile" width="450px">
@@ -18,5 +18,5 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação responsiva
 - [x] Utilização de keyframes 
 - [ ] Criação do Back-end
-- [ ] Criação do Gateway 
+- [ ] Criação do Gateway de Pagamento
 
